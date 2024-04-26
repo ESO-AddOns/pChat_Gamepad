@@ -1,0 +1,7 @@
+## Title: pChat_Gamepad
+## APIVersion: 101041
+## Version: 1.0.0
+## Author: @napalmskull
+## DependsOn: pChat
+
+pChat_Gamepad.lua
