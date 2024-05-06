@@ -1,4 +1,4 @@
-## Title: pChat_Gamepad
+## Title: pChat Gamepad
 ## APIVersion: 101041
 ## Version: 1.0.0
 ## Author: @napalmskull
